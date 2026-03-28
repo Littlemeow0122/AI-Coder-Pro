@@ -3,7 +3,7 @@ const API_KEY = "pk_hGZnR8vxGwI9IX46";
 
 interface ChatMessage {
   role: "system" | "user" | "assistant";
-  content: string;
+  content: string | any[];
 }
 
 export async function streamPollinationsAI({
