@@ -1,1 +1,2 @@
 # AI-Coder
+[![TypeScript](https://img.shields.io/badge/TypeScript-97.1-blue)]([https://github.com/search?q=repo%3ALittlemeow0122%2FAI-Coder-Pro+language%3ATypeScript&type=](https://github.com/search?q=repo%3ALittlemeow0122%2FAI-Coder-Pro++language%3ACSS&type=code)code)  [![CSS](https://img.shields.io/badge/CSS-1.6-purple)](https://github.com/search?q=repo%3ALittlemeow0122%2FAI-Coder-Pro++language%3ACSS&type=code)  
