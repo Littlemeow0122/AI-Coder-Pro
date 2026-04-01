@@ -1,6 +1,6 @@
 # AI-Coder
 [![TypeScript](https://img.shields.io/badge/TypeScript-97.1-blue)]([https://github.com/search?q=repo%3ALittlemeow0122%2FAI-Coder-Pro+language%3ATypeScript&type=](https://github.com/search?q=repo%3ALittlemeow0122%2FAI-Coder-Pro++language%3ACSS&type=code)code)  [![CSS](https://img.shields.io/badge/CSS-1.6-purple)](https://github.com/search?q=repo%3ALittlemeow0122%2FAI-Coder-Pro++language%3ACSS&type=code)  [![Other](https://img.shields.io/badge/Other-1.3-white)](https://github.com/search?q=repo%3ALittlemeow0122%2FAI-Coder-Pro++language%3AOther&type=code)
-# AI-Coder-Pro
+# 簡介
 
 簡單實用的 AI 程式碼輔助工具網站  
 試用連結：https://ai-coder-pro.vercel.app
