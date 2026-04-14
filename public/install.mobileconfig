@@ -7,12 +7,13 @@
   <key>PayloadContent</key>
   <array>
     <dict>
+
       <key>FullScreen</key>
       <true/>
 
       <key>Icon</key>
       <data>
-      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
+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
       </data>
 
       <key>IsRemovable</key>
@@ -21,29 +22,29 @@
       <key>Label</key>
       <string>AI Coder Pro</string>
 
-      <key>PayloadDescription</key>
-      <string>Launch AI Coder Pro</string>
+      <key>Precomposed</key>
+      <true/>
 
-      <key>PayloadDisplayName</key>
-      <string>AI Coder Pro</string>
+      
+      <key>URL</key>
+      <string>https://ai-coder-pro.vercel.app</string>
+
+      
+      <key>TargetApplicationBundleIdentifier</key>
+      <string>com.apple.mobilesafari</string>
 
       <key>PayloadIdentifier</key>
-      <string>com.littlemeow.aicoderpro.webclip</string>
+      <string>com.aicoderpro.webclip</string>
 
       <key>PayloadType</key>
       <string>com.apple.webClip.managed</string>
 
       <key>PayloadUUID</key>
-      <string>F1A2B3C4-D5E6-47A8-9B0C-1234567890AB</string>
+      <string>F3A1C2B4-91D2-4A6B-9C11-ABCDEF123456</string>
 
       <key>PayloadVersion</key>
       <integer>1</integer>
 
-      <key>Precomposed</key>
-      <true/>
-
-      <key>URL</key>
-      <string>https://ai-coder-pro.vercel.app</string>
     </dict>
   </array>
 
@@ -51,7 +52,7 @@
   <string>AI Coder Pro</string>
 
   <key>PayloadIdentifier</key>
-  <string>com.littlemeow.aicoderpro.profile</string>
+  <string>com.aicoderpro.profile</string>
 
   <key>PayloadRemovalDisallowed</key>
   <false/>
@@ -60,7 +61,7 @@
   <string>Configuration</string>
 
   <key>PayloadUUID</key>
-  <string>AABBCCDD-EEFF-0011-2233-445566778899</string>
+  <string>9B7C1D2E-8F33-4E21-9A10-123456789ABC</string>
 
   <key>PayloadVersion</key>
   <integer>1</integer>
